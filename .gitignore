@@ -34,7 +34,8 @@
 *.suo
 *.opensdf
 *.sdf
-*.sln
+#*.sln
+
 # dump
 AI.VC.db
 
